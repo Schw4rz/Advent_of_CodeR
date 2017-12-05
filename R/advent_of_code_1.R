@@ -5,7 +5,7 @@
 #' @param distance [\code{integer(1)}]\cr
 #'   distance to compare with.
 #' @return [\code{integer(1)}]\cr
-#'   sum of all numbers where number and number \code{distance} positions ahed
+#'   sum of all numbers where number and number \code{distance} positions ahead
 #'   match.
 #' @export
 #'

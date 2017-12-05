@@ -4,7 +4,7 @@
 #'   input as single character.
 #' @param distance [\code{integer(1)}]\cr
 #'   distance to compare with.
-#' @return input [\code{integer(1)}]\cr
+#' @return [\code{integer(1)}]\cr
 #'   sum of all numbers where number and number \code{distance} positions ahed
 #'   match.
 #' @export

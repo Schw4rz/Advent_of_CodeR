@@ -1,4 +1,4 @@
-#' Read Table Data to Matrux
+#' Read Table Data to Matrix
 #'
 #' @param path [\code{character(1)}]\cr
 #'   path to the file.

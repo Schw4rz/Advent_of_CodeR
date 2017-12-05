@@ -61,8 +61,8 @@ applyAndSum <- function(data_matrix, check_fun, margin = 1) {
 # calcuate results ------------------------------------------------------------
 data_matrix <- readDataMatrix("data/advent_of_code_2.txt")
 
-# part 1 ----------------------------------------------------------------------
+# part 1
 applyAndSum(data_matrix, calculateDiffMaxMin)
 
-# part 2 ----------------------------------------------------------------------
+# part 2
 applyAndSum(data_matrix, calculateRatio)

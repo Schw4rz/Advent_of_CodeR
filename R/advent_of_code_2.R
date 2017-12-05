@@ -66,9 +66,3 @@ applyAndSum(data_matrix, calculateDiffMaxMin)
 
 # part 2 ----------------------------------------------------------------------
 applyAndSum(data_matrix, calculateRatio)
-
-
-
-
-
-
